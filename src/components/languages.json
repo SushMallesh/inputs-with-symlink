@@ -1,0 +1,15 @@
+[
+    {
+        "id":"TELUGU",
+        "language":"Telugu"
+    },
+    {
+        "id":"HINDI",
+        "language":"Hindi"
+    },
+    {
+        "id":"ENGLISH",
+        "language":"English"
+    }
+
+]
